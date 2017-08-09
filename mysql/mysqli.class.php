@@ -2,7 +2,7 @@
 
 	$_DB['host'] = 'localhost';
 	$_DB['username'] = 'root';
-	$_DB['password'] = 'xiWckmNpGZ';
+	$_DB['password'] = 'xxxxxxxx';
 	$_DB['database'] = 'admin_dbms';
 
 	$conn = mysqli_connect($_DB['host'], $_DB['username'], $_DB['password'], $_DB['database']);
