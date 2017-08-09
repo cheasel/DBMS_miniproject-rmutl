@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 
 	$_DB['host'] = 'localhost';
 	$_DB['username'] = 'root';
-	$_DB['password'] = 'xiWckmNpGZ';
+	$_DB['password'] = 'xxxxxx';
 	$_DB['database'] = 'admin_dbms';
 
 	$firebase_url = "https://noppadol-rmutl-dbms.firebaseio.com";
